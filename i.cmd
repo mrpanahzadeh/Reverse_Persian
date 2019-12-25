@@ -1,0 +1,1 @@
+npm run index -- %1 %2 %3
