@@ -3,7 +3,7 @@ correct rtl after converting of persian pdf files to html
 
 ### install
 ```
-npm i @mrpanahzadeh/Reverse_Persian
+npm i mrpanahzadeh/Reverse_Persian
 
 ```
 
